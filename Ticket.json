@@ -1,0 +1,230 @@
+{
+    "ticketData_1363463508301316216": {
+        "panal_channelID": "1359148271536312440",
+        "panel_message": "Test",
+        "buttonsData": {
+            "button1": {
+                "panal_categoryID": "1359196243523407962",
+                "button_name": "عمك",
+                "button_color": "4",
+                "button_emoji": "<a:598721248402472960:1311010427026804757>",
+                "support_role": "1362869953971228844",
+                "modals": [],
+                "welcome": {
+                    "message": "ياشيخ",
+                    "type": "embed"
+                }
+            }
+        }
+    },
+    "ticketID_1363463508301316216_1": 22,
+    "notifications_1363467596133040238": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363467596133040238"
+    },
+    "notifications_1363467596133040238.ownerNotified": true,
+    "notifications_1363467766534766613": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363467766534766613"
+    },
+    "notifications_1363467879495893072": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363467879495893072"
+    },
+    "notifications_1363469464686821608": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363469464686821608"
+    },
+    "notifications_1363469464686821608.ownerNotified": true,
+    "notifications_1363471029036388352": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363471029036388352"
+    },
+    "notifications_1363473378266054806": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363473378266054806"
+    },
+    "notifications_1363473836531777698": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363473836531777698"
+    },
+    "notifications_1363473836531777698.ownerNotified": true,
+    "notifications_1363474720737067078": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363474720737067078"
+    },
+    "notifications_1363474720737067078.ownerNotified": true,
+    "notifications_1363475890041913345": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "channelId": "1363475890041913345"
+    },
+    "notifications_1363475890041913345.ownerNotified": true,
+    "notifications_1363478975615209494": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363479064005972148": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363480815429750795": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363482009602883887": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363483028424360138": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363483028424360138.supportNotified": true,
+    "notifications_1363485170254217228": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1362869953971228844"
+    },
+    "notifications_1363485170254217228.supportNotified": true,
+    "ticketData_1363485642004238366": {
+        "panal_channelID": "1359148271536312440",
+        "panel_message": "Test",
+        "buttonsData": {
+            "button1": {
+                "panal_categoryID": "1359196243523407962",
+                "button_name": "test",
+                "button_color": "3",
+                "button_emoji": "<a:598721248402472960:1311010427026804757>",
+                "support_role": "1327706813683990619",
+                "modals": [],
+                "welcome": {
+                    "message": "Tets",
+                    "type": "embed"
+                }
+            }
+        }
+    },
+    "ticketID_1363485642004238366_1": 14,
+    "notifications_1363485659200749578": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363485659200749578.supportNotified": true,
+    "notifications_1363485860787654848": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363485934766526705": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363486009118949508": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363485934766526705.supportNotified": true,
+    "notifications_1363487592577896690": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363487592577896690.supportNotified": true,
+    "notifications_1363488894770745394": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363488894770745394.supportNotified": true,
+    "notifications_1363490557602828338": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363490557602828338.supportNotified": true,
+    "notifications_1363494945129894113": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363494945129894113.supportNotified": true,
+    "notifications_1363495671092609106": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363495671092609106.supportNotified": true,
+    "notifications_1363496539858669714": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363496539858669714.supportNotified": true,
+    "notifications_1363498640789733428": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "notifications_1363498640789733428.supportNotified": true,
+    "notifications_1363626526297555224": {
+        "ownerNotified": false,
+        "supportNotified": false,
+        "support_role": "1327706813683990619"
+    },
+    "ticketSetupData_1366464384037289994": {
+        "panal_channelID": "1362803565026087006",
+        "panal_categoryID": "1363631564012916747",
+        "button_name": "دعم فني",
+        "button_color": "4",
+        "button_emoji": "<a:598721248402472960:1311010427026804757>",
+        "support_role": "1362869926481629224"
+    },
+    "ticketData_1366464727689199667": {
+        "panal_channelID": "1362803565026087006",
+        "panel_message": "عدم  التزام بل قوانين",
+        "buttonsData": {
+            "button1": {
+                "panal_categoryID": "1363631564012916747",
+                "button_name": "دعم فني",
+                "button_color": "4",
+                "button_emoji": "<a:598721248402472960:1311010427026804757>",
+                "support_role": "1362869926481629224",
+                "modals": [],
+                "welcome": {
+                    "message": "نوره زربه",
+                    "type": "embed"
+                }
+            }
+        }
+    },
+    "ticketID_1366464727689199667_1": 3,
+    "warns_1309874616734453914_867421169929289729": [
+        {
+            "moderator": "880010973216387193",
+            "reason": "تست",
+            "date": 1746535357230
+        },
+        {
+            "moderator": "880010973216387193",
+            "reason": "لا يوجد سبب",
+            "date": 1746535368640
+        }
+    ]
+}
